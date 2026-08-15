@@ -2,8 +2,6 @@
 
 M.S. Electrical Engineering student at Binghamton University (4+1 Accelerated Degree Program, expected May 2027).
 
-I design analog/PCB hardware and work on probabilistic load forecasting for extreme weather.
-
 - Website: [jfuentes0.github.io](https://jfuentes0.github.io/)
 - LinkedIn: [jonathan-fuentes0922](https://www.linkedin.com/in/jonathan-fuentes0922)
 
