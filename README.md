@@ -9,9 +9,9 @@ M.S. Electrical Engineering student at Binghamton University (4+1 Accelerated De
 
 - **[ercot-extreme-load-forecasting](https://github.com/JFuentes0/ercot-extreme-load-forecasting)** - DOE SULI at NETL. Adaptive Conditional Neural Processes vs a CNP baseline on ERCOT extreme cold events.
 - **[smart-micro-particle-chamber](https://github.com/JFuentes0/smart-micro-particle-chamber)** - Senior design. PCA9685/ULN2803 electromagnet-control PCBs and a 12 V power-distribution board for an 81-magnet ferrofluid chamber.
-- **[nfc-smart-business-card](https://github.com/JFuentes0/nfc-smart-business-card)** - EECE 531. Passive 13.56 MHz NFC business card with a matched planar trace antenna and field-harvested LED.
+- **[nfc-smart-business-card](https://github.com/JFuentes0/nfc-smart-business-card)** - Passive 13.56 MHz NFC business card with a matched planar trace antenna and field-harvested LED.
 
 ## Other projects
 
-- **[pjm-extreme-weather-forecasting](https://github.com/JFuentes0/pjm-extreme-weather-forecasting)** - EECE 529. Persistence vs linear regression, random forest, and XGBoost on PJM Mon Power load during Winter Storm Fern.
+- **[pjm-extreme-weather-forecasting](https://github.com/JFuentes0/pjm-extreme-weather-forecasting)** - Persistence vs linear regression, random forest, and XGBoost on PJM Mon Power load during Winter Storm Fern.
 - **[three-phase-bldc-motor](https://github.com/JFuentes0/three-phase-bldc-motor)** - Fusion 360 CAD and STL print files for a small outer-rotor three-phase BLDC.
